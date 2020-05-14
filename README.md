@@ -12,19 +12,5 @@ Done
 Done
 => table
 
-Symbol Table
-====================
-x           2.0
-y           3.0
-z           4.0
 
-Done
-=> show x + y*sin(pi*sqrt(z)/4)
-value: 5.0
-Done
 
-=> x = (2 - 3
-
-missing   )
-Parse Error
-=>
